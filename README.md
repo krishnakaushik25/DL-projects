@@ -7,4 +7,5 @@ The solution methodology and code overview is also explained in detail in repos.
 
 + [Medical-Image-Segmentation-Unet](https://github.com/krishnakaushik25/Medical-Image-Segmentation-DL)
 + [Real-time fruit detection system using YOLOv4 object detection model](https://github.com/krishnakaushik25/Real-Time-Fruit-Detection-YOLOv4)
++ [Multi-Class Text Classification using BERT](https://github.com/krishnakaushik25/Multi-Class-Text-Classification-BERT)
 
